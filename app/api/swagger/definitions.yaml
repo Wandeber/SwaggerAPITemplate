@@ -1,0 +1,13 @@
+ErrorResponse:
+  required:
+    - error
+    - message
+  properties:
+    error:
+      type: boolean
+    message:
+      type: string
+
+#Ejemplo
+Ejemplo:
+  $ref: ./Ejemplo/Ejemplo.yaml

@@ -1,0 +1,19 @@
+# Operations from /fotofactura/requests
+x-swagger-router-controller: ejemplo
+get:
+  description: Blablabla
+  operationId: list
+  # security:
+  #   - api_key: []
+  tags:
+    - Ejemplo
+  responses:
+    "200":
+      description: Blablabla
+      schema:
+        $ref: "#/definitions/Ejemplo"
+    default:
+      description: Result
+      schema:
+        $ref: "#/definitions/ErrorResponse"
+        

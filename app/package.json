@@ -1,0 +1,22 @@
+{
+	"name": "SwaggerAPITemplate",
+	"version": "0.0.1",
+	"private": true,
+	"description": "Swagger API Template",
+	"keywords": ["swagger", "api", "template"],
+	"author": "your name",
+	"license": "",
+	"main": "app.js",
+	"dependencies": {
+		"express": "4.12.3",
+		"js-yaml": "3.6.1",
+		"json-refs": "2.1.6",
+		"mongoose": "4.6.1",
+		"mongoose-validate": "0.0.5",
+		"q": "^1.4.1",
+		"swagger-express-mw": "0.1.0"
+	},
+	"scripts": {
+		"start": "node app.js"
+	}
+}

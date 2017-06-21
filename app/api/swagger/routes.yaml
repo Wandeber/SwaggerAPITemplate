@@ -1,0 +1,3 @@
+# Ejemplo
+/ejemplo:
+  $ref: ./Ejemplo/route-ejemplo.yaml
