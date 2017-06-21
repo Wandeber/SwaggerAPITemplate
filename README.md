@@ -12,10 +12,10 @@ Then, run the following commands on your terminal:
 
        cd app
 
-2. Install dependencies defined in **package.json**
+1. Install dependencies defined in **package.json**
 
        npm install
 
-3. Start the project
+1. Start the project
 
        npm start
